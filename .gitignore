@@ -7,6 +7,9 @@ __pycache__/
 # ChromaDB vector store (auto-generated, can be recreated)
 chroma_db/
 
+# Data files (PDFs - not tracked in git)
+data/
+
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
